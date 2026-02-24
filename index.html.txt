@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>Sri Charan</h1>
+    <p>Aspiring Web Developer</p>
+  </header>
+
+  <!-- About -->
+  <section>
+    <h2>About Me</h2>
+    <img src="image.jpg" width="150">
+    <p>I am a beginner web developer learning HTML, CSS and JavaScript.</p>
+  </section>
+
+  <!-- Skills -->
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Basic JavaScript</li>
+    </ul>
+  </section>
+
+  <!-- Projects -->
+  <section>
+    <h2>Projects</h2>
+    <p>Portfolio Website</p>
+    <p>Landing Page (Basic)</p>
+  </section>
+
+  <!-- Resume -->
+  <section>
+    <h2>Resume</h2>
+    <a href="#">Download Resume</a>
+  </section>
+
+  <!-- Contact -->
+  <section>
+    <h2>Contact</h2>
+    <p>Email: sricharan910048@gmail.com</p>
+    <p>Phone:  9100485046</p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2026 sri Charan</p>
+  </footer>
+
+</body>
+</html>
